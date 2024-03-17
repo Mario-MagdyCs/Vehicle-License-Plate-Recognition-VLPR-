@@ -1,5 +1,3 @@
-Absolutely, here's the README without the code window:
-
 # Vehicle License Plate Recognition (VLPR) 🚗🔍
 
 VLPR is a Python project designed for automatic license plate detection and recognition from images or video streams. It's suitable for surveillance or traffic monitoring applications, featuring advanced algorithms for plate detection, character segmentation, and optical character recognition (OCR).
